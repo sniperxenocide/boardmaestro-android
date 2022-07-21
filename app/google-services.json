@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213869438056",
+    "firebase_url": "https://bmapp-6b10f.firebaseio.com",
+    "project_id": "bmapp-6b10f",
+    "storage_bucket": "bmapp-6b10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213869438056:android:4909afa8a9f10288",
+        "android_client_info": {
+          "package_name": "com.example.fahim.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213869438056-vq6js350m8rlj01c3ffsojph3smiiq5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahim.myapplication",
+            "certificate_hash": "92c8643f45b94e0114b92ce71d493f7eec48c303"
+          }
+        },
+        {
+          "client_id": "213869438056-4lf9i59ouq3cebub13jc4ijn67b5oio5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvBWpRcRluJ434JLwJcO0HWChf7lgALyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213869438056-4lf9i59ouq3cebub13jc4ijn67b5oio5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

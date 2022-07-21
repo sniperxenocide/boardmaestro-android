@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2abdae</color>
+    <color name="colorPrimaryDark">#fcfbfb</color>
+    <color name="colorAccent">#f10b5e</color>
+    <color name="light_purple">#0E3A61</color>
+    <color name="dark_purple">#011E43</color>
+    <color name="white">#ffffff</color>
+    <color name="skyblue">#41C7DC</color>
+    <color name="lightBlue"> #A6D3F0</color>
+    <color name="darkBlue">#00ADE2</color>
+    <color name="tabColor">#21637E</color>
+    <color name="tabItem">#132B34</color>
+    <color name="tabItemFont">#0081B7</color>
+    <color name="lightGrey">#EAEAEA</color>
+</resources>
